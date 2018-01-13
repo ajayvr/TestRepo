@@ -1,2 +1,2 @@
 # TestRepo
-A local repository
+A local repository - a repo for testing
